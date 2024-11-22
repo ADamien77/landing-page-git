@@ -27,7 +27,7 @@ ul > li:nth-child(5) > a {
 }
 
 .title {
-    background-image: url('/Hero-2.png');
+    background-image: url('Hero-2.png');
     background-size: cover;
     background-position: bottom;
     height: 90%;
